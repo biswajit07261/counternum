@@ -1,0 +1,17 @@
+#count{
+    margin: 50px;
+    font-size: 100px;
+    font-weight: 200px;
+    padding: 100px;
+    background-color: aqua;
+    border-color: black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#button{
+    border-color: chartreuse;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: smaller;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
